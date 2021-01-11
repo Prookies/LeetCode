@@ -1,3 +1,13 @@
+#include <vector>
+#include <string>
+#include <map>
+#include <algorithm>
+
+using std::map;
+using std::sort;
+using std::string;
+using std::vector;
+
 class Solution
 {
 public:
